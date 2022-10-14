@@ -1,0 +1,5 @@
+C:\dev\meuxamarin\2017\AwesomeApp\AwesomeApp\AwesomeApp.Android\obj\Debug\70\MonoAndroid,Version=v7.0.AssemblyAttributes.cs
+C:\dev\meuxamarin\2017\AwesomeApp\AwesomeApp\AwesomeApp.Android\obj\Debug\70\AwesomeApp.Android.nuget.stamp
+C:\dev\meuxamarin\2017\AwesomeApp\AwesomeApp\AwesomeApp.Android\obj\Debug\70\AwesomeApp.Android.csprojAssemblyReference.cache
+C:\dev\meuxamarin\2017\AwesomeApp\AwesomeApp\AwesomeApp.Android\obj\Debug\70\libraryimports.cache.stamp
+C:\dev\meuxamarin\2017\AwesomeApp\AwesomeApp\AwesomeApp.Android\obj\Debug\70\res.flag
